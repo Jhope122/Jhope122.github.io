@@ -1,0 +1,89 @@
+
+body{
+   background-color:white;
+}
+
+
+.nome:hover{
+background-color:rgba(241, 169, 241, 0.852);
+}
+
+
+#Eu{
+   display:flex;
+   justify-content:center;
+}
+
+
+h1{
+   background-color:rgb(204, 155, 249);
+   color:black;
+   display:flex;
+   justify-content:center;
+}
+
+
+#Titulo1{ 
+   background-color:rgb(204, 155, 249);
+   color:black;
+   display: inline-block;
+} 
+  
+
+#Titulo2{
+   background-color: rgb(204, 155, 249);
+   color:black;
+   display:inline-block;  
+}
+
+#Titulo3{
+   background-color:rgb(204, 155, 249);
+   color:black;
+   display:inline-block;
+}
+
+
+h4{
+   background-color:rgb(204, 155, 249);
+   color:black;
+}
+
+
+  .botao1{
+   background-color:violet;
+   border:none;
+   color:black;
+   padding: 2px 10px;
+   text-align: center;
+   text-decoration: none;
+   display:inline-block;
+   font-size: 16px;
+   margin:4px 2px;
+   cursor:pointer;
+   border-radius: 12px;
+}
+
+ .botao2{
+   background-color:violet;
+   border:none;
+   color:black;
+   padding: 2px 10px;
+   text-align: center;
+   text-decoration: none;
+   display:inline-block;
+   font-size: 16px;
+   margin:4px 2px;
+   cursor:pointer;
+   border-radius: 12px;
+}
+
+
+.botao1:hover{
+   background-color:pink;
+}
+
+.botao2:hover{
+   background-color:pink;
+}
+
+
